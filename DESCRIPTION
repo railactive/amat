@@ -1,0 +1,12 @@
+Package: amat
+Title: Active Mode Appraisal Toolkit in R
+Version: 0.1.0
+Author: Robin Lovelace [aut, cre]
+Maintainer: Robin Lovelace <rob00x@gmail.com>
+Authors@R: person("Robin", "Lovelace", email = "rob00x@gmail.com", role = c("aut", "cre"))
+Description: A concise, pure base-R implementation of the UK Department for
+    Transport (DfT) Active Mode Appraisal Toolkit (AMAT). Evaluates economic,
+    health, decongestion, environmental, and ambience benefits and costs of active
+    travel schemes following official TAG methodology without external dependencies.
+License: MIT + file LICENSE
+Encoding: UTF-8

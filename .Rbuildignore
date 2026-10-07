@@ -1,0 +1,5 @@
+^inst/extdata/.*\.xlsx$
+^inst/extdata/.*\.pdf$
+^inst/extdata/unzipped_.*$
+^data-raw$
+^\.gitignore$
